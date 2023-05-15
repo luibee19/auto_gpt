@@ -13,7 +13,6 @@ This is a Python program that automates interactions with the GPT-3 language mod
 
 1. Clone the repository:
 
->>>shell
 git clone https://github.com/luibee19/auto_gpt.git
 
 2. Install the required dependencies:
