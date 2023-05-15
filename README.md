@@ -19,6 +19,8 @@ git clone https://github.com/luibee19/auto_gpt.git
 pip install -r requirements.txt
 
 ## Usage
+Goto https://platform.openai.com/account/api-keys to create an API key if you havent had one
+Save your API-key to api_key.txt at the same location of the code file
 Run the auto_gpt_w_gui.py script: python auto_gpt_w_gui.py
 The GUI window will appear.
 Click the "Browse" button to select an Excel file containing the questions.
